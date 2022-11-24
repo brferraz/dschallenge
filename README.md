@@ -1,13 +1,13 @@
-# Nome do meu projeto
+# Spark to Know
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto de ciência de dados com PySpark para criar modelos de recomendação
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **SparkToKnow**
+| :label: Tecnologias | python, pySpark (tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :fire: Desafio     | https://www.alura.com.br/challenges/data-science-2/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
