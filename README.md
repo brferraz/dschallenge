@@ -10,7 +10,7 @@ Projeto de ciência de dados com PySpark para criar modelos de recomendação
 | :fire: Desafio     | https://www.alura.com.br/challenges/data-science-2/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![]([https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto]#vitrinedev)
+![](sparktoknow_bg.jpg#vitrinedev)
 
 ## Detalhes do projeto
 
